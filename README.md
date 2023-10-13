@@ -1,7 +1,7 @@
 # Video Reaction Management for macOS 14+
 Sonoma introduced video reactions to video calls, on by default.  This payload sets app gestures off by default, per app.
 
-**NOTE: THIS ONLY APPLYS SETTINGS WHEN THE USER LOGS IN**
+**NOTE: THIS ONLY APPLIES SETTINGS WHEN THE USER LOGS IN**
 
 * If a user is currently logged in when the profile is delivered, no changes are made to any app settings.
 * If a user logs out and logs back in, the settings are applied.
