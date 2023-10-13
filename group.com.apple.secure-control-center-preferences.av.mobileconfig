@@ -22,6 +22,10 @@
 								<false/>
 								<key>videoeffects/com-apple-FaceTime/reactions-enabled</key>
 								<false/>
+								<key>videoeffects/com-apple-QuickTimePlayerX/reactions-enabled</key>
+								<false/>
+								<key>videoeffects/com-apple-QuickTimePlayerX/gestures-enabled</key>
+								<false/>
 								<key>videoeffects/com-apple-Safari/gestures-enabled</key>
 								<false/>
 								<key>videoeffects/com-apple-Safari/reactions-enabled</key>
@@ -49,6 +53,18 @@
 								<key>videoeffects/com-google-Chrome/gestures-enabled</key>
 								<false/>
 								<key>videoeffects/com-google-Chrome/reactions-enabled</key>
+								<false/>
+								<key>videoeffects/com-microsoft-teams/reactions-enabled</key>
+								<false/>
+								<key>videoeffects/com-microsoft-teams/gestures-enabled</key>
+								<false/>
+								<key>videoeffects/com-microsoft-teams-helper/reactions-enabled</key>
+								<false/>
+								<key>videoeffects/com-microsoft-teams-helper/gestures-enabled</key>
+								<false/>
+								<key>videoeffects/com-microsoft-teams2/reactions-enabled</key>
+								<false/>
+								<key>videoeffects/com-microsoft-teams2/gestures-enabled</key>
 								<false/>
 								<key>videoeffects/com-tinyspeck-slackmacgap/gestures-enabled</key>
 								<false/>
