@@ -78,6 +78,18 @@
 								<false/>
 								<key>videoeffects/us-zoom-xos/reactions-enabled</key>
 								<false/>
+                                                                <key>videoeffects/org-mozilla-firefox/gestures-enabled</key>
+                                                                <false/>
+                                                                <key>videoeffects/org-mozilla-firefox/reactions-enabled</key>
+                                                                <false/>
+                                                                <key>videoeffects/com-avaya-Avaya-Equinox/gestures-enabled</key>
+                                                                <false/>
+                                                                <key>videoeffects/com-avaya-Avaya-Equinox/reactions-enabled</key>
+                                                                <false/>
+                                                                <key>videoeffects/com-logi-cp-dev-mgr/gestures-enabled</key>
+                                                                <false/>
+                                                                <key>videoeffects/com-logi-cp-dev-mgr/reactions-enabled</key>
+                                                                <false/>
 							</dict>
 						</dict>
 					</array>
