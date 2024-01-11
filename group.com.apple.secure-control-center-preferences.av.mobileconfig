@@ -82,6 +82,10 @@
 								<false/>
 								<key>videoeffects/replayd/reactions-enabled</key>
 								<false/>
+								<key>videoeffects/com-obsproject-obs-studio/gestures-enabled</key>
+								<false/>
+								<key>videoeffects/com-obsproject-obs-studio/reactions-enabled</key>
+								<false/>
 								<key>videoeffects/us-zoom-xos/gestures-enabled</key>
 								<false/>
 								<key>videoeffects/us-zoom-xos/reactions-enabled</key>
