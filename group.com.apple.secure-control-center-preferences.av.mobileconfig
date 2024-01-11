@@ -22,6 +22,8 @@
 								<false/>
 								<key>videoeffects/com-apple-FaceTime/reactions-enabled</key>
 								<false/>
+								<key>videoeffects/com-apple-iWork-Keynote/reactions-enabled</key>
+								<false/>
 								<key>videoeffects/com-apple-QuickTimePlayerX/reactions-enabled</key>
 								<false/>
 								<key>videoeffects/com-apple-QuickTimePlayerX/gestures-enabled</key>
@@ -29,6 +31,8 @@
 								<key>videoeffects/com-apple-Safari/gestures-enabled</key>
 								<false/>
 								<key>videoeffects/com-apple-Safari/reactions-enabled</key>
+								<false/>
+								<key>videoeffects/com-apple-ScreenSharing/reactions-enabled</key>
 								<false/>
 								<key>videoeffects/com-apple-cmio-ContinuityCaptureAgent/gestures-enabled</key>
 								<false/>
@@ -50,9 +54,13 @@
 								<false/>
 								<key>videoeffects/com-apple-systemuiserver/reactions-enabled</key>
 								<false/>
+								<key>videoeffects/com-hnc-Discord/reactions-enabled</key>
+								<false/>
 								<key>videoeffects/com-google-Chrome/gestures-enabled</key>
 								<false/>
 								<key>videoeffects/com-google-Chrome/reactions-enabled</key>
+								<false/>
+								<key>videoeffects/com-logitech-logitune/reactions-enabled</key>
 								<false/>
 								<key>videoeffects/com-microsoft-teams/reactions-enabled</key>
 								<false/>
