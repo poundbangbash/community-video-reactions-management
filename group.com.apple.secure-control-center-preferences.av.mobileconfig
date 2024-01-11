@@ -86,6 +86,10 @@
 								<false/>
 								<key>videoeffects/us-zoom-xos/reactions-enabled</key>
 								<false/>
+								<key>videoeffects/us-zoom-ZoomPresence/gestures-enabled</key>
+								<false/>
+								<key>videoeffects/us-zoom-ZoomPresence/reactions-enabled</key>
+								<false/>
 							</dict>
 						</dict>
 					</array>
