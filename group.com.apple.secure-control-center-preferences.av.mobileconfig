@@ -22,6 +22,8 @@
 								<false/>
 								<key>videoeffects/com-apple-FaceTime/reactions-enabled</key>
 								<false/>
+								<key>videoeffects/com-apple-iWork-Keynote/reactions-enabled</key>
+								<false/>
 								<key>videoeffects/com-apple-QuickTimePlayerX/reactions-enabled</key>
 								<false/>
 								<key>videoeffects/com-apple-QuickTimePlayerX/gestures-enabled</key>
@@ -29,6 +31,8 @@
 								<key>videoeffects/com-apple-Safari/gestures-enabled</key>
 								<false/>
 								<key>videoeffects/com-apple-Safari/reactions-enabled</key>
+								<false/>
+								<key>videoeffects/com-apple-ScreenSharing/reactions-enabled</key>
 								<false/>
 								<key>videoeffects/com-apple-cmio-ContinuityCaptureAgent/gestures-enabled</key>
 								<false/>
@@ -50,9 +54,13 @@
 								<false/>
 								<key>videoeffects/com-apple-systemuiserver/reactions-enabled</key>
 								<false/>
+								<key>videoeffects/com-hnc-Discord/reactions-enabled</key>
+								<false/>
 								<key>videoeffects/com-google-Chrome/gestures-enabled</key>
 								<false/>
 								<key>videoeffects/com-google-Chrome/reactions-enabled</key>
+								<false/>
+								<key>videoeffects/com-logitech-logitune/reactions-enabled</key>
 								<false/>
 								<key>videoeffects/com-microsoft-teams/reactions-enabled</key>
 								<false/>
@@ -74,22 +82,30 @@
 								<false/>
 								<key>videoeffects/replayd/reactions-enabled</key>
 								<false/>
+								<key>videoeffects/com-obsproject-obs-studio/gestures-enabled</key>
+								<false/>
+								<key>videoeffects/com-obsproject-obs-studio/reactions-enabled</key>
+								<false/>
 								<key>videoeffects/us-zoom-xos/gestures-enabled</key>
 								<false/>
 								<key>videoeffects/us-zoom-xos/reactions-enabled</key>
 								<false/>
-                                                                <key>videoeffects/org-mozilla-firefox/gestures-enabled</key>
-                                                                <false/>
-                                                                <key>videoeffects/org-mozilla-firefox/reactions-enabled</key>
-                                                                <false/>
-                                                                <key>videoeffects/com-avaya-Avaya-Equinox/gestures-enabled</key>
-                                                                <false/>
-                                                                <key>videoeffects/com-avaya-Avaya-Equinox/reactions-enabled</key>
-                                                                <false/>
-                                                                <key>videoeffects/com-logi-cp-dev-mgr/gestures-enabled</key>
-                                                                <false/>
-                                                                <key>videoeffects/com-logi-cp-dev-mgr/reactions-enabled</key>
-                                                                <false/>
+								<key>videoeffects/us-zoom-ZoomPresence/gestures-enabled</key>
+								<false/>
+								<key>videoeffects/us-zoom-ZoomPresence/reactions-enabled</key>
+								<false/>
+                <key>videoeffects/org-mozilla-firefox/gestures-enabled</key>
+								<false/>
+								<key>videoeffects/org-mozilla-firefox/reactions-enabled</key>
+								<false/>
+								<key>videoeffects/com-avaya-Avaya-Equinox/gestures-enabled</key>
+								<false/>
+								<key>videoeffects/com-avaya-Avaya-Equinox/reactions-enabled</key>
+								<false/>
+								<key>videoeffects/com-logi-cp-dev-mgr/gestures-enabled</key>
+								<false/>
+								<key>videoeffects/com-logi-cp-dev-mgr/reactions-enabled</key>
+								<false/>
 							</dict>
 						</dict>
 					</array>
