@@ -130,6 +130,22 @@
   								<false/>
   								<key>videoeffects/com-brave-Browser/gestures-enabled</key>
   								<false/>
+								<key>videoeffects/com-apple-AppStore/reactions-enabled</key>
+  								<false/>
+  								<key>videoeffects/com-apple-AppStore/gestures-enabled</key>
+  								<false/>
+								<key>videoeffects/com-apple-controlcenter/reactions-enabled</key>
+  								<false/>
+  								<key>videoeffects/com-apple-controlcenter/gestures-enabled</key>
+  								<false/>
+								<key>videoeffects/com-apple-PhotoBooth/reactions-enabled</key>
+  								<false/>
+  								<key>videoeffects/com-apple-PhotoBooth/gestures-enabled</key>
+  								<false/>
+								<key>videoeffects/com-vmware-fusion/reactions-enabled</key>
+  								<false/>
+  								<key>videoeffects/com-vmware-fusion/gestures-enabled</key>
+  								<false/>
 							</dict>
 						</dict>
 					</array>
