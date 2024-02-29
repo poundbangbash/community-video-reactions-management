@@ -22,21 +22,17 @@
 								<false/>
 								<key>videoeffects/com-apple-FaceTime/reactions-enabled</key>
 								<false/>
-								<key>videoeffects/com-apple-iWork-Keynote/reactions-enabled</key>
-								<false/>
-								<key>videoeffects/com-apple-iWork-Keynote/gestures-enabled</key>
+								<key>videoeffects/com-apple-QuickTimePlayerX/gestures-enabled</key>
 								<false/>
 								<key>videoeffects/com-apple-QuickTimePlayerX/reactions-enabled</key>
-								<false/>
-								<key>videoeffects/com-apple-QuickTimePlayerX/gestures-enabled</key>
 								<false/>
 								<key>videoeffects/com-apple-Safari/gestures-enabled</key>
 								<false/>
 								<key>videoeffects/com-apple-Safari/reactions-enabled</key>
 								<false/>
-								<key>videoeffects/com-apple-ScreenSharing/reactions-enabled</key>
-								<false/>
 								<key>videoeffects/com-apple-ScreenSharing/gestures-enabled</key>
+								<false/>
+								<key>videoeffects/com-apple-ScreenSharing/reactions-enabled</key>
 								<false/>
 								<key>videoeffects/com-apple-cmio-ContinuityCaptureAgent/gestures-enabled</key>
 								<false/>
@@ -45,6 +41,10 @@
 								<key>videoeffects/com-apple-controlcenter/gestures-enabled</key>
 								<false/>
 								<key>videoeffects/com-apple-controlcenter/reactions-enabled</key>
+								<false/>
+								<key>videoeffects/com-apple-iWork-Keynote/gestures-enabled</key>
+								<false/>
+								<key>videoeffects/com-apple-iWork-Keynote/reactions-enabled</key>
 								<false/>
 								<key>videoeffects/com-apple-screencaptureui/gestures-enabled</key>
 								<false/>
@@ -58,78 +58,82 @@
 								<false/>
 								<key>videoeffects/com-apple-systemuiserver/reactions-enabled</key>
 								<false/>
-								<key>videoeffects/com-hnc-Discord/reactions-enabled</key>
+								<key>videoeffects/com-avaya-Avaya-Equinox/gestures-enabled</key>
 								<false/>
-								<key>videoeffects/com-hnc-Discord/gestures-enabled</key>
+								<key>videoeffects/com-avaya-Avaya-Equinox/reactions-enabled</key>
+								<false/>
+								<key>videoeffects/com-brave-Browser/gestures-enabled</key>
+								<false/>
+								<key>videoeffects/com-brave-Browser/reactions-enabled</key>
 								<false/>
 								<key>videoeffects/com-google-Chrome/gestures-enabled</key>
 								<false/>
 								<key>videoeffects/com-google-Chrome/reactions-enabled</key>
 								<false/>
-								<key>videoeffects/com-logitech-logitune/reactions-enabled</key>
+								<key>videoeffects/com-hnc-Discord/gestures-enabled</key>
 								<false/>
-								<key>videoeffects/com-logitech-logitune/gestures-enabled</key>
-								<false/>
-								<key>videoeffects/com-microsoft-teams/reactions-enabled</key>
-								<false/>
-								<key>videoeffects/com-microsoft-teams/gestures-enabled</key>
-								<false/>
-								<key>videoeffects/com-microsoft-teams-helper/reactions-enabled</key>
-								<false/>
-								<key>videoeffects/com-microsoft-teams-helper/gestures-enabled</key>
-								<false/>
-								<key>videoeffects/com-microsoft-teams2/reactions-enabled</key>
-								<false/>
-								<key>videoeffects/com-microsoft-teams2/gestures-enabled</key>
-								<false/>
-								<key>videoeffects/com-tinyspeck-slackmacgap/gestures-enabled</key>
-								<false/>
-								<key>videoeffects/com-tinyspeck-slackmacgap/reactions-enabled</key>
-								<false/>
-								<key>videoeffects/replayd/gestures-enabled</key>
-								<false/>
-								<key>videoeffects/replayd/reactions-enabled</key>
-								<false/>
-								<key>videoeffects/com-obsproject-obs-studio/gestures-enabled</key>
-								<false/>
-								<key>videoeffects/com-obsproject-obs-studio/reactions-enabled</key>
-								<false/>
-								<key>videoeffects/us-zoom-xos/gestures-enabled</key>
-								<false/>
-								<key>videoeffects/us-zoom-xos/reactions-enabled</key>
-								<false/>
-								<key>videoeffects/us-zoom-ZoomPresence/gestures-enabled</key>
-								<false/>
-								<key>videoeffects/us-zoom-ZoomPresence/reactions-enabled</key>
-								<false/>
-								<key>videoeffects/org-mozilla-firefox/gestures-enabled</key>
-								<false/>
-								<key>videoeffects/org-mozilla-firefox/reactions-enabled</key>
-								<false/>
-								<key>videoeffects/com-avaya-Avaya-Equinox/gestures-enabled</key>
-								<false/>
-								<key>videoeffects/com-avaya-Avaya-Equinox/reactions-enabled</key>
+								<key>videoeffects/com-hnc-Discord/reactions-enabled</key>
 								<false/>
 								<key>videoeffects/com-logi-cp-dev-mgr/gestures-enabled</key>
 								<false/>
 								<key>videoeffects/com-logi-cp-dev-mgr/reactions-enabled</key>
 								<false/>
-								<key>videoeffects/com-skype-skype-Helper-(Renderer)/reactions-enabled</key>
+								<key>videoeffects/com-logitech-logitune/gestures-enabled</key>
+								<false/>
+								<key>videoeffects/com-logitech-logitune/reactions-enabled</key>
+								<false/>
+								<key>videoeffects/com-microsoft-edgemac/gestures-enabled</key>
+								<false/>
+								<key>videoeffects/com-microsoft-edgemac/reactions-enabled</key>
+								<false/>
+								<key>videoeffects/com-microsoft-teams-helper/gestures-enabled</key>
+								<false/>
+								<key>videoeffects/com-microsoft-teams-helper/reactions-enabled</key>
+								<false/>
+								<key>videoeffects/com-microsoft-teams/gestures-enabled</key>
+								<false/>
+								<key>videoeffects/com-microsoft-teams/reactions-enabled</key>
+								<false/>
+								<key>videoeffects/com-microsoft-teams2/gestures-enabled</key>
+								<false/>
+								<key>videoeffects/com-microsoft-teams2/reactions-enabled</key>
+								<false/>
+								<key>videoeffects/com-obsproject-obs-studio/gestures-enabled</key>
+								<false/>
+								<key>videoeffects/com-obsproject-obs-studio/reactions-enabled</key>
 								<false/>
 								<key>videoeffects/com-skype-skype-Helper-(Renderer)/gestures-enabled</key>
 								<false/>
-  								<key>videoeffects/com-skype-skype/reactions-enabled</key>
-  								<false/>
-  								<key>videoeffects/com-skype-skype/gestures-enabled</key>
-  								<false/>
-								<key>videoeffects/com-microsoft-edgemac/reactions-enabled</key>
-  								<false/>
-  								<key>videoeffects/com-microsoft-edgemac/gestures-enabled</key>
-  								<false/>
-								<key>videoeffects/com-brave-Browser/reactions-enabled</key>
-  								<false/>
-  								<key>videoeffects/com-brave-Browser/gestures-enabled</key>
-  								<false/>
+								<key>videoeffects/com-skype-skype-Helper-(Renderer)/reactions-enabled</key>
+								<false/>
+								<key>videoeffects/com-skype-skype/gestures-enabled</key>
+								<false/>
+								<key>videoeffects/com-skype-skype/reactions-enabled</key>
+								<false/>
+								<key>videoeffects/com-teamviewer-TeamViewerHost/gestures-enabled</key>
+								<false/>
+								<key>videoeffects/com-teamviewer-TeamViewerHost/reactions-enabled</key>
+								<false/>
+								<key>videoeffects/com-tinyspeck-slackmacgap/gestures-enabled</key>
+								<false/>
+								<key>videoeffects/com-tinyspeck-slackmacgap/reactions-enabled</key>
+								<false/>
+								<key>videoeffects/org-mozilla-firefox/gestures-enabled</key>
+								<false/>
+								<key>videoeffects/org-mozilla-firefox/reactions-enabled</key>
+								<false/>
+								<key>videoeffects/replayd/gestures-enabled</key>
+								<false/>
+								<key>videoeffects/replayd/reactions-enabled</key>
+								<false/>
+								<key>videoeffects/us-zoom-ZoomPresence/gestures-enabled</key>
+								<false/>
+								<key>videoeffects/us-zoom-ZoomPresence/reactions-enabled</key>
+								<false/>
+								<key>videoeffects/us-zoom-xos/gestures-enabled</key>
+								<false/>
+								<key>videoeffects/us-zoom-xos/reactions-enabled</key>
+								<false/>
 							</dict>
 						</dict>
 					</array>
@@ -162,7 +166,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>08765927-50d0-494c-bbc5-249209639fd2</string>
+	<string>EB0E3535-09F5-4FE6-8305-130EE13F5D03</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
