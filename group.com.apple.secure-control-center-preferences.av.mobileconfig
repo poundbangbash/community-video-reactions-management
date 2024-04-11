@@ -132,13 +132,23 @@
   								<false/>
 								<key>videoeffects/net-whatsapp-WhatsApp/reactions-enabled</key>
 								<false/>
+								<key>videoeffects/net-whatsapp-WhatsApp/gestures-enabled</key>
+								<false/>
 								<key>videoeffects/com-liminal-zoomISO2/reactions-enabled</key>
+								<false/>
+								<key>videoeffects/com-liminal-zoomISO2/gestures-enabled</key>
 								<false/>
 								<key>videoeffects/com-liminal-zoomOSCv4/reactions-enabled</key>
 								<false/>
+								<key>videoeffects/com-liminal-zoomOSCv4/gestures-enabled</key>
+								<false/>
 								<key>videoeffects/com-figure53-QLab-4/reactions-enabled</key>
 								<false/>
+								<key>videoeffects/com-figure53-QLab-4/gestures-enabled</key>
+								<false/>
 								<key>videoeffects/com-figure53-QLab-5/reactions-enabled</key>
+								<false/>
+								<key>videoeffects/com-figure53-QLab-5/gestures-enabled</key>
 								<false/>
 	
 							</dict>
