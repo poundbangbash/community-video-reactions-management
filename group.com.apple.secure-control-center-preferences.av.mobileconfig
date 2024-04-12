@@ -118,26 +118,46 @@
 								<false/>
 								<key>videoeffects/com-skype-skype-Helper-(Renderer)/gestures-enabled</key>
 								<false/>
-  								<key>videoeffects/com-skype-skype/reactions-enabled</key>
-  								<false/>
-  								<key>videoeffects/com-skype-skype/gestures-enabled</key>
-  								<false/>
+  							<key>videoeffects/com-skype-skype/reactions-enabled</key>
+  							<false/>
+  							<key>videoeffects/com-skype-skype/gestures-enabled</key>
+  							<false/>
 								<key>videoeffects/com-microsoft-edgemac/reactions-enabled</key>
-  								<false/>
-  								<key>videoeffects/com-microsoft-edgemac/gestures-enabled</key>
-  								<false/>
+  							<false/>
+  							<key>videoeffects/com-microsoft-edgemac/gestures-enabled</key>
+  							<false/>
 								<key>videoeffects/com-brave-Browser/reactions-enabled</key>
-  								<false/>
-  								<key>videoeffects/com-brave-Browser/gestures-enabled</key>
-  								<false/>
-  								<key>videoeffects/Cisco-Systems-Spark/reactions-enabled</key>
-  								<false/>
-  								<key>videoeffects/Cisco-Systems-Spark/gestures-enabled</key>
-  								<false/>
-  								<key>videoeffects/com-cisco-webex-webexmta/reactions-enabled</key>
-  								<false/>
-  								<key>videoeffects/com-cisco-webex-webexmta/gestures-enabled</key>
-  								<false/>
+  							<false/>
+  							<key>videoeffects/com-brave-Browser/gestures-enabled</key>
+  							<false/>
+  							<key>videoeffects/Cisco-Systems-Spark/reactions-enabled</key>
+  							<false/>
+  							<key>videoeffects/Cisco-Systems-Spark/gestures-enabled</key>
+  							<false/>
+  							<key>videoeffects/com-cisco-webex-webexmta/reactions-enabled</key>
+  							<false/>
+  							<key>videoeffects/com-cisco-webex-webexmta/gestures-enabled</key>
+  							<false/>
+								<key>videoeffects/net-whatsapp-WhatsApp/reactions-enabled</key>
+								<false/>
+								<key>videoeffects/net-whatsapp-WhatsApp/gestures-enabled</key>
+								<false/>
+								<key>videoeffects/com-liminal-zoomISO2/reactions-enabled</key>
+								<false/>
+								<key>videoeffects/com-liminal-zoomISO2/gestures-enabled</key>
+								<false/>
+								<key>videoeffects/com-liminal-zoomOSCv4/reactions-enabled</key>
+								<false/>
+								<key>videoeffects/com-liminal-zoomOSCv4/gestures-enabled</key>
+								<false/>
+								<key>videoeffects/com-figure53-QLab-4/reactions-enabled</key>
+								<false/>
+								<key>videoeffects/com-figure53-QLab-4/gestures-enabled</key>
+								<false/>
+								<key>videoeffects/com-figure53-QLab-5/reactions-enabled</key>
+								<false/>
+								<key>videoeffects/com-figure53-QLab-5/gestures-enabled</key>
+								<false/>
 							</dict>
 						</dict>
 					</array>
