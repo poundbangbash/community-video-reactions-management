@@ -12,7 +12,7 @@ If you notice an app has gesture settings but is not present in this file (the g
 **To contribute:**
 1) Run `sudo plutil -p /Users/[username]/Library/Group\ Containers/group.com.apple.secure-control-center-preferences/Library/Preferences/group.com.apple.secure-control-center-preferences.av.plist | grep -i reactions-enabled` to see which apps have reactions enabled. You can also run with `grep -i gestures-enabled` to see if any apps have that key set. *NOTE: This needs to be run with `sudo` since the plist is readable only by root.*
 2) Extract the app entry (e.g. `videoeffects/us-zoom-xos/reactions-enabled`)
-3) Fork this repo, update the mobileconfig adding the appropriate line(s) and a boolean key of `false`.
+3) Fork this repo, update the mobileconfig adding the appropriate line(s) and a boolean key of `false`. Note that you will need to add keys for both "gestures-enabled" and "reactions-disabled" for each application
 4) PR it back.  In the PR make sure to list what the application is in case it's not clear in the mobileconfig setting.
 
    
