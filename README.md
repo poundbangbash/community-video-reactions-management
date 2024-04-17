@@ -13,6 +13,41 @@ macOS Sonoma introduced video Reactions for apps using the camera, which is enab
 * If a user logs out and logs back in, the settings are applied.
 * If a user turns on Reactions for an application in the management scope, Reactions will stay on during that login session.  If a user logs out and logs back in, the settings are re-applied (e.g. if you turn on gestures for Zoom, log out and back in, Zoom Reactions are off again).
 
+## Apps Currently Managed
+- Cisco Systems Spark
+- Apple App Store
+- Apple DeskCam
+- Apple FaceTime
+- Apple PhotoBooth
+- Apple QuickTime Player X
+- Apple Safari
+- Apple ScreenSharing
+- Apple Continuity Capture Agent
+- Apple Control Center
+- Apple iWork Keynote
+- Apple Screen Capture UI
+- Apple System Preferences
+- Apple SystemUIServer
+- Avaya Equinox
+- Brave Browser
+- Cisco WebEx
+- Figure53 QLab 4 & 5
+- Google Chrome
+- Discord
+- Liminal ZoomISO2 and ZoomOSCv4
+- Logitech Device Manager and LogiTune
+- Microsoft Edge (Mac)
+- Microsoft Teams and Teams Helper
+- OBS Studio
+- Skype and Skype Helper
+- TeamViewer Host
+- Slack
+- VMware Fusion
+- WhatsApp
+- Mozilla Firefox
+- Replayd
+- Zoom Presence and Zoom XOS
+
 ## Contributing
 
 If you notice an app uses the camera but is not present in this file, please contribute to benefit others who may have that application as well.
