@@ -70,6 +70,10 @@
 								<false/>
 								<key>videoeffects/com-apple-systemuiserver/reactions-enabled</key>
 								<false/>
+								<key>videoeffects/com-amazon-Amazon-Chime/gestures-enabled</key>
+								<false/>
+								<key>videoeffects/com-amazon-Amazon-Chime/reactions-enabled</key>
+								<false/>
 								<key>videoeffects/com-avaya-Avaya-Equinox/gestures-enabled</key>
 								<false/>
 								<key>videoeffects/com-avaya-Avaya-Equinox/reactions-enabled</key>
